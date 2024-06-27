@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hez666
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me you can email me kielsiahaan09@gmail.com
 
